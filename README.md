@@ -1,6 +1,10 @@
+
+
+## 👋 Hi, I'm a Cybersecurity Professional
+
 <div align="center">
 
-## 👋 Hi, I'm Amal Alex Cheriyan
+<img src="https://github.com/amalalexcheriyaan/amalalexcheriyaan/blob/master/Tech Guy.gif" alt="Cybersecurity Banner" width="100%" />
 
 <p>
 Security-driven | CTF Enthusiast | Pentester-in-Progress  
@@ -29,10 +33,10 @@ Always learning, always defending.
 | Category            | Tools & Platforms                                                |
 |---------------------|------------------------------------------------------------------|
 | Offensive Security  | Burp Suite, Nmap, Nikto, Metasploit, Hydra, SQLMap              |
-| Defensive Security  | Splunk,Nessus           |
+| Defensive Security  | Splunk, Wazuh                                                   |
 | Scripting & Analysis| Python, Bash, PowerShell, Wireshark, tcpdump                    |
 | Platforms           | Kali Linux, Parrot OS, Windows Server, Azure Security Center    |
-| Dev & Infra         | Git, Docker, GitHub Actions, Terraform (for security automation)|
+| Dev & Infra         | Git, Docker, GitHub Actions                                     |
 | Learning & CTFs     | Hack The Box, TryHackMe, PortSwigger Labs, Blue Team Labs       |
 
 ---
@@ -58,7 +62,6 @@ Always learning, always defending.
 ### 🔗 Let’s Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/amalalexcheriyan)
-- 💬 [Telegram](https://t.me/YOUR_HANDLE)
 - 📧 [Email](mailto:amalalexcheriyan@gmail.com)
 
 ---
