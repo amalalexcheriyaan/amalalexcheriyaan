@@ -1,51 +1,51 @@
-<div align="center" width="50%">
+<div align="center">
 
-<img src="https://media.giphy.com/media/f6pOe5e7WUE8g/giphy.gif" alt="Cybersecurity Vibes" width="60%"/> <br>
-<img src="https://media.giphy.com/media/l0HlT9B6fJ3x1U1sY/giphy.gif" alt="SecOps Working" width="40%"/> <br>
+## Hi, I'm **[Amal Alex Cheriyan]** 👋
 
-<details>
-<summary><strong>🎧 While analyzing logs, I vibe to:</strong></summary>
+<p>A lifelong tech enthusiast on a constant quest to learn, build, and grow. From backend code to cybersecurity—I'm here for it all.</p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com)
-
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=CyberSec-Pro&style=flat&color=blue&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCyberSec-Pro&count_bg=%2379C83D&title_bg=%23555555&icon=protonmail.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![Telegram](https://img.shields.io/badge/Contact-grey?style=flat&logo=telegram)](https://t.me/YourTelegramLink)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+###  Skills & Stack
 
-- 🛡️ Cybersecurity Professional | Red & Blue Team Enthusiast
-- 🔐 Passionate about Penetration Testing, Threat Intelligence, Vulnerability Management, and Incident Response.
-- 🕵️‍♂️ Actively exploring CTFs on Hack The Box, TryHackMe & PortSwigger Labs.
-- 🧠 Lifelong learner | Always chasing zero-days & mastering tools.
+| Domain             | Technologies & Tools                          |
+|--------------------|-----------------------------------------------|
+| Backend / APIs     | Node.js, NestJS, TypeScript                   |
+| Blockchain         | Ethereum, Smart Contracts, Web3.js            |
+| Databases          | PostgreSQL, MongoDB (optional—adjust as needed) |
+| Other              | Git, Docker, Linux, REST API design           |
 
 ---
 
-### 🧰 My Arsenal
+###  About Me
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=flat&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+- 🧠 Curious coder always exploring new technologies—dabbled in decentralized systems, backend frameworks, and more.
+- 👨‍💻 Actively building real-world projects: from secure APIs to smart-contract-powered apps.
+- 📚 Ready to grow—keen on opportunities in Web3, backend systems, or full-stack development.
 
-```python
-# My Cyber Stack
-class CyberSecurityPro:
-    def __init__(self):
-        self.languages = ['Python', 'Bash', 'YAML']
-        self.tools = ['Burp Suite', 'Wireshark', 'Nmap', 'Metasploit', 'Splunk', 'Nessus']
-        self.focus = ['Pentesting', 'Threat Hunting', 'Security Operations', 'CTFs']
-        self.platforms = ['Linux', 'Windows', 'Cloud (Azure/AWS)']
+---
+
+###  GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" width="45%" />
+</div>
+
+---
+
+###  Quick Links
+
+- **Projects**: Highlights here —  
+  - *SmartContractApp*: Deployed on Ethereum, secure wallet integration.  
+  - *API-Service*: RESTful backend built with NestJS and PostgreSQL.  
+- **Connect**: Let's chat about code or coffee—link up on [LinkedIn](YOUR_LINKEDIN_URL) or shoot me an email!
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House  
