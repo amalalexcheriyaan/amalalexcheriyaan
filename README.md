@@ -4,7 +4,8 @@
 
 <div align="center">
 
-<img src="https://github.com/amalalexcheriyaan/amalalexcheriyaan/blob/master/Tech Guy.gif" alt="Cybersecurity Banner" width="100%" />
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 <p>
 Security-driven | CTF Enthusiast | Pentester-in-Progress  
