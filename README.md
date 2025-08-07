@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋I’m a cybersecurity enthusiast turned professional with a strong drive to explore, exploit, and secure. Whether I’m scanning for vulnerabilities, launching targeted exploits, or diving deep into network traffic, I’m most at home in the thick of hands-on security work.
+
+My background spans penetration testing, network security, API hardening, and system vulnerability analysis, with practical experience gained through real-world projects and intensive training. I’ve worked across different environments—from financial institutions to security labs—using tools like Metasploit, Nmap, Wireshark, Nessus, Burp Suite, and Kali Linux to uncover and address threats before they become problems.
 
 <!--
 **amalalexcheriyaan/amalalexcheriyaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
