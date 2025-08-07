@@ -1,51 +1,67 @@
 <div align="center">
 
-## Hi, I'm **[Amal Alex Cheriyan]** 👋
+## 👋 Hi, I'm Amal Alex Cheriyan
 
-<p>A lifelong tech enthusiast on a constant quest to learn, build, and grow. From backend code to cybersecurity—I'm here for it all.</p>
+<p>
+Security-driven | CTF Enthusiast | Pentester-in-Progress  
+Always learning, always defending.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amalalexcheriyan) 
+[![Email](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:amalalexcheriyan@gmail.com)
 
 </div>
 
 ---
 
-###  Skills & Stack
+### 🛡️ My Focus Areas
 
-| Domain             | Technologies & Tools                          |
-|--------------------|-----------------------------------------------|
-| Backend / APIs     | Node.js, NestJS, TypeScript                   |
-| Blockchain         | Ethereum, Smart Contracts, Web3.js            |
-| Databases          | PostgreSQL, MongoDB (optional—adjust as needed) |
-| Other              | Git, Docker, Linux, REST API design           |
-
----
-
-###  About Me
-
-- 🧠 Curious coder always exploring new technologies—dabbled in decentralized systems, backend frameworks, and more.
-- 👨‍💻 Actively building real-world projects: from secure APIs to smart-contract-powered apps.
-- 📚 Ready to grow—keen on opportunities in Web3, backend systems, or full-stack development.
+- 🔍 Vulnerability Assessment & Penetration Testing  
+- 📊 SIEM & Log Analysis  
+- 🧠 Threat Intelligence & MITRE ATT&CK Mapping  
+- 🛠️ Cybersecurity Engineering & Defensive Architecture  
+- 🎯 Red/Blue Team Simulations & CTF Challenges
 
 ---
 
-###  GitHub Stats
+### 🧰 Tools & Technologies
+
+| Category            | Tools & Platforms                                                |
+|---------------------|------------------------------------------------------------------|
+| Offensive Security  | Burp Suite, Nmap, Nikto, Metasploit, Hydra, SQLMap              |
+| Defensive Security  | Splunk,Nessus           |
+| Scripting & Analysis| Python, Bash, PowerShell, Wireshark, tcpdump                    |
+| Platforms           | Kali Linux, Parrot OS, Windows Server, Azure Security Center    |
+| Dev & Infra         | Git, Docker, GitHub Actions, Terraform (for security automation)|
+| Learning & CTFs     | Hack The Box, TryHackMe, PortSwigger Labs, Blue Team Labs       |
+
+---
+
+### 📚 About Me
+
+- 💼 Cybersecurity intern | Hands-on experience in identifying and mitigating vulnerabilities.
+- 🧪 Passionate about practical security – not just theory.
+- 🎯 Goal: Constantly evolving to match modern threat landscapes.
+- 📖 Currently exploring malware analysis, cloud security & threat hunting.
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amalalexcheriyaan&show_icons=true&theme=dark" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalalexcheriyaan&layout=compact&theme=dark" width="45%" />
 </div>
 
 ---
 
-###  Quick Links
+### 🔗 Let’s Connect
 
-- **Projects**: Highlights here —  
-  - *SmartContractApp*: Deployed on Ethereum, secure wallet integration.  
-  - *API-Service*: RESTful backend built with NestJS and PostgreSQL.  
-- **Connect**: Let's chat about code or coffee—link up on [LinkedIn](YOUR_LINKEDIN_URL) or shoot me an email!
+- 🌐 [LinkedIn](https://www.linkedin.com/in/amalalexcheriyan)
+- 💬 [Telegram](https://t.me/YOUR_HANDLE)
+- 📧 [Email](mailto:amalalexcheriyan@gmail.com)
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House  
+> “The quieter you become, the more you are able to hear.”  
+> — **Ram Dass** (A quote I apply both in life and in cybersecurity 👨‍💻)
