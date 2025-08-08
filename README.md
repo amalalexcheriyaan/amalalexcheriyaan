@@ -3,11 +3,6 @@
 ## 👋 Hi, I'm a Cybersecurity Professional
 
 <div align="center">
-
-<!-- Any image aligned to the right. Beware the width -->
-< !-- img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" / -->
-<div align="center">
-
 <img src="https://github.com/amalalexcheriyaan/amalalexcheriyaaan/blob/main/Hacker.gif" alt="Cybersecurity Banner" width="100%" />
 
 ## ​ Hi, I'm a Cybersecurity Professional
